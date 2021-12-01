@@ -1,0 +1,7 @@
+# Assignment07 - Fu
+## Introduction
+>The seventh assignment of this class is about how to uses SQL Functions to retrieve information from a database. I personally think it’s the most different assignment so far especially for the User Defined Functions. I have learned combine functions to create better looking results. Also, Logical Functions allow me to look for a condition the evaluates to true or false and then return an appropriate value such as The String function, The Format Function, The Immediate IF function etc... Partitioned or Windowed Functions can be used to group data differently than the standard Group By clause. It’s very useful for creating report. Besides the SQL Server's built-in functions, there are customized functions called User Defined Functions. There are two types of functions; functions that return a table of values and functions that return a single value. Scalars Functions return a single (scalar) value as an expression. Inline table valued function refers to a TVF where the function body just contains one line of select statement. The multi-statement table-valued function is slightly more complicated than the other two types of functions because it uses multiple statements to build the table that is returned to the calling statement.
+> My assignment in [Github](https://github.com/joyang801/DBFoundations-Module07/blob/main/Assignment07_QiaoyiYang.sql)
+> ![My Assignment](https://github.com/joyang801/DBFoundations-Module07/blob/main/hw07github.png)
+
+
